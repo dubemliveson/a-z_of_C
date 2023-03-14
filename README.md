@@ -1,4 +1,4 @@
-# Project Title
+# The A-Z of C programming language
 
 This project is a compilation of all the basic concepts and syntaxes in C programming language. 
 There would be a number of basic examples in code on various topics in C  
