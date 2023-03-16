@@ -4,11 +4,17 @@ This program demonstrates variable declaration and printing in C. It declares fo
 
 ## Table of Contents
 - [variables](#variables)
+- [flow-control](#flow-control)
+- [functions](#functions)
+- [arrays](#arrays)
+- [strings](#strings)
+- [pointers](#pointers)
+- [struct](#struct)
 
 
 
 
-#variables 
+## variables 
 <h3>Code Explanation</h3>
 The code begins with the inclusion of the `stdio.h` header file that contains the standard input/output functions in C.
 
