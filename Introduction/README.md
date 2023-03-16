@@ -1,4 +1,4 @@
-<h1>Variable Declaration and Printing in C</h1>
+<h1>Introduction to C</h1>
 
 This program demonstrates variable declaration and printing in C. It declares four variables of different data types and prints their values using format specifiers.
 
