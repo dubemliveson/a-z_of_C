@@ -3,8 +3,12 @@
 This program demonstrates variable declaration and printing in C. It declares four variables of different data types and prints their values using format specifiers.
 
 ## Table of Contents
-- (variables)[#variables]
+- [variables](#variables)
 
+
+
+
+#variables 
 <h3>Code Explanation</h3>
 The code begins with the inclusion of the `stdio.h` header file that contains the standard input/output functions in C.
 
