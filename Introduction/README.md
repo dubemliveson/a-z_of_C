@@ -1,6 +1,7 @@
 <h1>Introduction to C</h1>
 
-This program demonstrates variable declaration and printing in C. It declares four variables of different data types and prints their values using format specifiers.
+To start programming in C, one needs to have a basic understanding of programming concepts like variables, data types, operators, and control structures.
+The syntax of C is similar to other programming languages like Java and Python, but it is important to pay attention to details like semicolons, curly braces, and function declarations.
 
 ## Table of Contents
 - [variables](#variables)
